@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Edo4747
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Edo4747/Edo4747 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+install.packages("devtools") # only necessary if devtools package isn't already installed
+library(devtools) # load devtools
+install_github("stschn/deepANN") # install deepANN from GitHub
